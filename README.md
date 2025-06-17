@@ -14,3 +14,8 @@ All keypads work - https://www.nexusmods.com/hitman3/mods/283
 
 
 
+### ZHM
+https://github.com/OrfeasZ/ZHMModSDK/releases
+
+
+NoClip Mod
