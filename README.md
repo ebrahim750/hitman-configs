@@ -19,3 +19,7 @@ https://github.com/OrfeasZ/ZHMModSDK/releases
 
 
 NoClip Mod
+
+
+### Peacock
+https://github.com/thepeacockproject/Peacock/releases/
