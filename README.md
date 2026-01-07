@@ -17,6 +17,7 @@ Rogueless Freelancer - https://www.nexusmods.com/hitman3/mods/470
 Hidden Merces - https://www.nexusmods.com/hitman3/mods/513
 Holster Anything - https://www.nexusmods.com/hitman3/mods/422
 Silenced Sellers - https://www.nexusmods.com/hitman3/mods/476
+Dual Back Support - https://www.nexusmods.com/hitman3/mods/1109
 
 
 ### ZHM
